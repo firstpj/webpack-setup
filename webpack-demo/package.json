@@ -1,0 +1,19 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode productio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.86.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
